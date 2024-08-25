@@ -9,6 +9,6 @@ label_default: "manulidades"
 label_primary: "proyectos"
 label_success: 
 label_info: "personalización"
-label_warning: "trbajos"
+label_warning: "trabajos"
 label_danger: 
 ---
