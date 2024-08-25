@@ -1,14 +1,14 @@
 ---
-title: "Revolution has begun!"
-description: "'I am bound to Tahiti for more men.'
-'Very good. Let me board you a moment—I come in peace.' With that he leaped from the canoe, swam to the boat; and climbing the gunwale, stood face to face with the captain.
-'Cross your arms, sir; throw back your head. Now, repeat after me. As soon as Steelkilt leaves me, I swear to beach this boat on yonder island, and remain there six days. If I do not, may lightning strike me!'A pretty scholar,' laughed the Lakeman. 'Adios, Senor!' and leaping into the sea, he swam back to his comrades."
-picture: blog2.jpg
+title: "Trabajos y Proyectos Escolares, Regalos y Manualidades"
+description: "Ahora también hacemos trabajos esolares y proyectos escolares (maquetas, trabajos a computadora...), regalos con algún tipo de referencia, manualidades, etc.
+ESTIMADO CLIENTE RECUERDA QUE EN CASO DE REQUERIR ALGUNO DE ESTOS SERVICIOS DEBES TOMAR EN CUENTA QUE SE TE COBRARÁ POR EL TIEMPO QUE TOME HACERLO, EL MATERIAL Y LA MANO DE OBRA. RECUERDA TAMBIÉN HACER TU PEDIDO CON TIEMPO.
+Escríbenos por WhatsApp o acude a nuestra papelería."
+picture: Etiqueta Horizontal Feliz Navidad Ilustrada Verde.jpg
 
-label_default: "alice" 
-label_primary: "story"
+label_default: "manulidades" 
+label_primary: "proyectos"
 label_success: 
-label_info: "personal"
-label_warning: "warning"
+label_info: "personalización"
+label_warning: "trbajos"
 label_danger: 
 ---
